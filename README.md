@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @tiptonspirj
-- 👀 I’m interested in full stack development with java
+- 👋 Hi, I’m Jeremy Tipton
+- 👀 I’m interested in developing my skills as a full stack developer with java
 - 🌱 I’m currently learning how to integrate java with a database
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
