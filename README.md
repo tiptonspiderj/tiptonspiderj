@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jeremy Tipton
 - 👀 I’m interested in developing my skills as a full stack developer with java
-- 🌱 I’m currently learning how to integrate java with a database
+- 🌱 I’m currently learning how to integrate java with a database and RESTful API's
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
