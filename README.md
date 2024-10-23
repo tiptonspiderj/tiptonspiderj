@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jeremy Tipton
 - 👀 I’m interested in developing my skills as a full stack developer
 - 🌱 I’m currently learning how to use React Router
-- 💞️ I’m looking to collaborate on frontend development and java springboot projects
+- 💞️ I’m looking to collaborate on frontend development and Java Springboot projects
 - 📫 How to reach me...Go to my Business Card repositories
 
 <!---
